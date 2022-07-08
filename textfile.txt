@@ -1,2 +1,4 @@
+This is a new msg in the file for test.
+
 This is test file for sample download.
 And this is another commit from local machine.
